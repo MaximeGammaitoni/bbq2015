@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\ButtonManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ControlCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InputBomberman.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\donjon\interupt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\donjon\bridge.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\donjon\InputDonjon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InputPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\InControl\Examples\InterfaceMovement\ButtonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\InControl\Examples\InterfaceMovement\Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\InControl\Examples\InterfaceMovement\ButtonFocus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\ButtonManager.cs" Line="48" Column="18" />
+      <File FileName="Assets\Scripts\Menu\Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\ButtonFocus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveForward.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Tweening\TweenPosition.cs" Line="44" Column="1" />
+      <File FileName="Assets\Scripts\playSoundAfterTime.cs" Line="21" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
